@@ -1,5 +1,4 @@
-# progressbar-topics
-# 🐎 Carrera de Caballos Concurrente
+# 🐎 Carrera de Caballos 
 
 **Unidad 2 — Tópicos Avanzados de Software**  
 Universidad de Cartagena · Ingeniería en Software · Cereté, Córdoba · 2026
