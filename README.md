@@ -170,13 +170,4 @@ self.progressbar.after(0, self._actualizar_gui)
 
 ---
 
-## Referencias
-
-- Ben-Ari, M. (2006). *Principles of Concurrent and Distributed Programming*. Addison-Wesley Professional.
-- Goetz, B. et al. (2006). *Java Concurrency in Practice*. Addison-Wesley Professional.
-- Python Software Foundation. (2024). [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html).
-- Universidad de Cartagena. (2026). *Módulo Unidad 2 — Programación Concurrente*. Tópicos Avanzados de Programación.
-
----
-
 *Universidad de Cartagena — Ingeniería en Software — 2026*
