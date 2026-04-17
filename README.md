@@ -3,13 +3,6 @@
 **Unidad 2 — Tópicos Avanzados de Software**  
 Universidad de Cartagena · Ingeniería en Software · Cereté, Córdoba · 2026
 
-**Integrantes:**
-- Alejandra Salgado Polo  
-- Daniela Alejandra Petro Martínez  
-- Edgar Alexander Matos Rivera  
-
-**Tutor:** Rafael Benedetti
-
 ---
 
 ## Descripción
